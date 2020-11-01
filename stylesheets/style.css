@@ -1,0 +1,114 @@
+body {
+  padding: 0;
+  margin: 0;
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: Verdana;
+  color: #038225;
+  font-size: 24px; }
+
+main {
+  width: 1440px;
+  height: 1024px;
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%); }
+
+.main--koffer {
+  background: url("/images/koffer/achtergrond.png");
+  background-repeat: no-repeat;
+  background-size: cover; }
+
+.main--menu {
+  background: url("/images/menu/achtergrond_menu.png");
+  background-repeat: no-repeat;
+  background-size: contain; }
+
+.main--drama {
+  background: url("/images/drama/achtergrond.png");
+  background-repeat: no-repeat;
+  background-size: cover; }
+
+.main--muziek {
+  background: url("/images/muziek/achtergrond_muziek.png");
+  background-repeat: no-repeat;
+  background-size: cover; }
+
+.main--beeldende-vorming {
+  background: url("/images/beeldende_vorming/achtergrond_beeldende-vorming.png");
+  background-repeat: no-repeat;
+  background-size: cover; }
+
+a {
+  text-decoration: none; }
+
+.centered {
+  margin: auto;
+  display: black; }
+
+.center-all {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%); }
+
+.top-left {
+  top: 25px;
+  left: 25px;
+  position: absolute; }
+
+.top-right {
+  top: 42px;
+  right: 34px;
+  position: absolute; }
+
+.bottom-center {
+  left: 460px;
+  bottom: 0px;
+  position: absolute; }
+
+.bottom-right {
+  bottom: 0pc;
+  right: 25px;
+  position: absolute; }
+
+.top-center {
+  left: 460px;
+  top: 0px;
+  position: absolute; }
+
+.top-mid-right {
+  right: 440px;
+  top: 25px;
+  position: absolute; }
+
+.center-mid-left {
+  position: absolute;
+  left: 300px;
+  top: 400px; }
+
+.center-mid-right {
+  position: absolute;
+  right: 330px;
+  bottom: 450px; }
+
+.top-mid-left {
+  position: absolute;
+  left: 330px;
+  top: 55px; }
+
+.mid-bottom-right {
+  position: absolute;
+  right: 25px;
+  bottom: 123px; }
+
+.pad-bot {
+  padding-bottom: 10px; }
