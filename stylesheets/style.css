@@ -21,27 +21,27 @@ main {
           transform: translate(-50%, -50%); }
 
 .main--koffer {
-  background: url("/images/koffer/achtergrond.png");
+  background: url("../images/koffer/achtergrond.png");
   background-repeat: no-repeat;
   background-size: cover; }
 
 .main--menu {
-  background: url("/images/menu/achtergrond_menu.png");
+  background: url("../images/menu/achtergrond_menu.png");
   background-repeat: no-repeat;
   background-size: contain; }
 
 .main--drama {
-  background: url("/images/drama/achtergrond.png");
+  background: url("../images/drama/achtergrond.png");
   background-repeat: no-repeat;
   background-size: cover; }
 
 .main--muziek {
-  background: url("/images/muziek/achtergrond_muziek.png");
+  background: url("../images/muziek/achtergrond_muziek.png");
   background-repeat: no-repeat;
   background-size: cover; }
 
 .main--beeldende-vorming {
-  background: url("/images/beeldende_vorming/achtergrond_beeldende-vorming.png");
+  background: url("../images/beeldende_vorming/achtergrond_beeldende-vorming.png");
   background-repeat: no-repeat;
   background-size: cover; }
 
